@@ -1,0 +1,5 @@
+-> allowed_hosts = []  to allow url rights to the hosts
+
+-> middleware - 3rd party chize
+
+->
